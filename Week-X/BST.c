@@ -39,7 +39,7 @@ void insertion(int y){
                 }
             }
         }
-    }
+    }   
 }
 
 void create(int n) {
