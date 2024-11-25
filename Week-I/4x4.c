@@ -23,5 +23,5 @@ int main(){
         }
     }
     printf("Sum of diagonal elements is: %d",sum);
-
+//just a change
 }
